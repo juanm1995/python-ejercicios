@@ -7,3 +7,4 @@ Los ejercicios realizados son obtenidos del sitio [Tutoriales de programacion Ya
 ## Instalación
 
 Para realizar los ejercicios se utilizó la version **3.6.2** de Python que se puede descargar desde la [página oficial](https://www.python.org/downloads/).
+probando pull request
